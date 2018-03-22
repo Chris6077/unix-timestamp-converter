@@ -1,2 +1,2 @@
-# unix-timestamp-converter
-Converts unix timestamps and dates.
+# unix-date-converter
+Converts unix timestamps to dates and dates to unix timestamps.
